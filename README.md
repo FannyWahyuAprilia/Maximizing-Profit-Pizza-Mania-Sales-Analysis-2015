@@ -28,7 +28,8 @@ https://datastudio.google.com/reporting/e97fcecb-ab17-45b5-ba94-a9d18ac55dd0
 
 ## Dashboard Preview
 
-![Pizza Dashboard](https://datastudio.google.com/reporting/e97fcecb-ab17-45b5-ba94-a9d18ac55dd0/page/p_3wtplt8y2d/edit)
+![Pizza Dashboard](<img width="1366" height="768" alt="Screenshot 2026-06-16 171649" src="https://github.com/user-attachments/assets/ab73e751-4acb-4bd8-b593-34a1c1fba274" />
+)
 
 ## Key Insights
 
