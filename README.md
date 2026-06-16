@@ -28,7 +28,7 @@ https://datastudio.google.com/reporting/e97fcecb-ab17-45b5-ba94-a9d18ac55dd0
 
 ## Dashboard Preview
 
-![<img width="1366" height="768" alt="Screenshot 2026-06-16 171649" >](https://github.dev/FannyWahyuAprilia/Maximizing-Profit-Pizza-Mania-Sales-Analysis-2015/blob/main/Dashboard%20Pizza.png)
+![Dashboard Pizza](https://github.dev/FannyWahyuAprilia/Maximizing-Profit-Pizza-Mania-Sales-Analysis-2015/blob/main/Dashboard%20Pizza.png)
 
 ## Key Insights
 
